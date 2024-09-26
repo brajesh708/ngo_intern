@@ -10,6 +10,7 @@ const Hero = () => {
           <div className="menu-icon">☰</div>
           <div className="brand-logo"> 
             <img src={logo} alt="Brand Logo" /></div>
+            
         </div>
         <div className="navbar-right">
           <a href="#who-we-are">Who we are</a>
